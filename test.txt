@@ -1,0 +1,11 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 48CB-0CDE
+
+ Directorio de C:\Users\0009813\Dropbox\Trabajo\ViewNext\Vodafone\API Connect\Repositorio\temp\CSM\test
+
+18/10/2019  09:37    <DIR>          .
+18/10/2019  09:37    <DIR>          ..
+18/10/2019  09:23             1.992 CSM.postman_collection.json
+18/10/2019  09:37                 0 test.txt
+               2 archivos          1.992 bytes
+               2 dirs  400.519.180.288 bytes libres
